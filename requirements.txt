@@ -1,17 +1,17 @@
 Flask-Cors
-Flask==[version number]
-Pillow==[version number]
-numpy==[version number]
-certifi==[version number]
-charset-normalizer==[version number]
-click==[version number]
-Flask==[version number]
-gunicorn==[version number]
-idna==[version number]
-itsdangerous==[version number]
-Jinja2==[version number]
-MarkupSafe==[version number]
-numpy==[version number]
+Flask==5.0.0
+Pillow==10.4.0
+numpy==1.24.3
+certifi==2024.8.3
+charset-normalizer==3.3.2
+click==8.1.1
+Flask==3.0.3
+gunicorn==23.0.0
+idna==3.9
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+numpy==1.24.3
 opencv-python==4.11.0.86
 packaging==24.1
 Pillow==10.4.0
