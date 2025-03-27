@@ -1,6 +1,22 @@
-Flask
-opencv-python
-numpy
-gunicorn
-Pillow
-requests
+Flask-Cors
+Flask==[version number]
+Pillow==[version number]
+numpy==[version number]
+certifi==[version number]
+charset-normalizer==[version number]
+click==[version number]
+Flask==[version number]
+gunicorn==[version number]
+idna==[version number]
+itsdangerous==[version number]
+Jinja2==[version number]
+MarkupSafe==[version number]
+numpy==[version number]
+opencv-python==4.11.0.86
+packaging==24.1
+Pillow==10.4.0
+psutil==6.0.0
+pyparsing==3.1.4
+requests==2.32.3
+urllib3==2.2.3
+Werkzeug==3.0.6
