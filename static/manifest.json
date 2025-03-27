@@ -1,0 +1,20 @@
+{
+  "name": "Leaf Disease Analyzer",
+  "short_name": "Leaf Analyzer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e0f7fa",
+  "theme_color": "#00c4cc",
+  "icons": [
+    {
+      "src": "/static/icons/icon-192x192.png",  // Replace with your icon paths
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

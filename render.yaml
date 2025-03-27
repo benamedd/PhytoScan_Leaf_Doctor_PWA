@@ -1,0 +1,8 @@
+version: 1
+services:
+  - type: web
+    name: your-app-name  # Replace with your desired app name
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn --bind 0.0.0.0:$PORT app:app
+    staticDir: static  # Tell Render to serve files from the "static" folder
